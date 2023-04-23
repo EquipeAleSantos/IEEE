@@ -1,2 +1,3 @@
-# IEEE
-O repositório a qual todos os membros do grupo tem acesso
+# IEEE - Capacitação RAS
+
+- Repositório da equipe 'AleSantos'.
